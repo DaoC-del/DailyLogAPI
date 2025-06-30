@@ -1,2 +1,0 @@
-# DailyLogAPI
-record daily activity
